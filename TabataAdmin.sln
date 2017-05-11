@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "TabataAdmin", "TabataAdmin\TabataAdmin.ccproj", "{B38F5D67-49B2-415E-BF1E-4016F2A0EF3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRole1", "WebRole1\WebRole1.csproj", "{D90DBA83-0F41-4D48-98A5-B1A7A7CC9D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerRole1", "WorkerRole1\WorkerRole1.csproj", "{F30A256F-CB7C-44F7-9A6A-79C9FECBACBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B38F5D67-49B2-415E-BF1E-4016F2A0EF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38F5D67-49B2-415E-BF1E-4016F2A0EF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38F5D67-49B2-415E-BF1E-4016F2A0EF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38F5D67-49B2-415E-BF1E-4016F2A0EF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90DBA83-0F41-4D48-98A5-B1A7A7CC9D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90DBA83-0F41-4D48-98A5-B1A7A7CC9D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90DBA83-0F41-4D48-98A5-B1A7A7CC9D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90DBA83-0F41-4D48-98A5-B1A7A7CC9D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30A256F-CB7C-44F7-9A6A-79C9FECBACBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30A256F-CB7C-44F7-9A6A-79C9FECBACBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30A256F-CB7C-44F7-9A6A-79C9FECBACBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30A256F-CB7C-44F7-9A6A-79C9FECBACBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
